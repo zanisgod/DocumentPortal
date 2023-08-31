@@ -7,7 +7,7 @@ A running instance of the web application can be found [here](http://rmondal.pyt
 
 - To run the project locally on your machine, first clone the project locally:
   ```
-  git clone https://github.com/rmondal37/Document-Portal
+  git clone https://github.com/zanisgod/DocumentPortal.git
   ```
 - Next, to install the dependencies for the project, run the following command:
 
@@ -21,9 +21,3 @@ A running instance of the web application can be found [here](http://rmondal.pyt
   python manage.py runserver
   ```
 
-## Demo:
-
-<br/>
-<p align="center">
-  <img src="https://media.giphy.com/media/OCt9pAQ6x7Vsq6bMRq/giphy.gif">
-</p>
